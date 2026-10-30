@@ -16,7 +16,8 @@ name:        Fernando
 location:    Recife, PE — Brazil 🇧🇷
 role:        Cloud Analyst
 experience:  13+ years in IT Infrastructure
-             4+ years focused on AWS & Cloud-native
+             7+ Years of Experience as a TOTVS Winthor ERP Administrator
+             5+ years focused on AWS & Cloud-native
 focus:
   - AWS architecture & cost optimization
   - Infrastructure as Code (Terraform, Ansible)
